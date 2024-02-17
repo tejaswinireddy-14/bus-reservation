@@ -1,0 +1,32 @@
+.source{
+    width: 100%;
+   
+    
+    margin-left: 2%;
+    margin-top: 10%;
+}
+
+
+.destination{
+    width: 100%;
+  
+    
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.date{
+    width: 100%;
+  
+    
+    margin-left: 2%;
+    margin-top: 2%;
+
+}
+.submit{
+    width: 100%;
+  
+   
+    margin-left: 2%;
+    margin-top: 1%;
+}
